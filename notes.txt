@@ -8,3 +8,4 @@ git revert commitID
 .gitignore
 README.md 
 LICENSE
+git clone GitHub-URL.
