@@ -5,3 +5,6 @@ git reset --soft HEAD~1
 git reset --mixed HEAD~1
 git reset --hart HEAD~1
 git revert commitID
+.gitignore
+README.md 
+LICENSE
